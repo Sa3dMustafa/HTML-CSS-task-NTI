@@ -738,6 +738,12 @@ p {
     padding-right: 40px;
 }
 
+@media (max-width: 667px) {
+    .main-content .left-content .content {
+        padding-right: 0;
+    }
+}
+
 .left-content .content .blog-image {
     position: relative;
     padding-bottom: 30px;
