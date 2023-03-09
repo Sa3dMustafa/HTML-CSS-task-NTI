@@ -253,13 +253,13 @@ p {
     height: 390px;
     background-image: url(../images/our-story-01.jpg);
     background-position: center;
-    background-size: 400px;
+    background-size: 465px;
     border-radius: 16px;
     transition: var(--transition);
 }
 
 .back1 .image>div:hover {
-    background-size: 450px;
+    background-size: 520px;
     transition: var(--transition);
 }
 
